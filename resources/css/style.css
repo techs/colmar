@@ -108,7 +108,7 @@ nav>span:last-of-type {
 	color: #111;
 }
 
-@media only screen and (max-width: 720px), (orientation: portrait) {
+@media only screen and (max-width: 720px) {
 	#desktop, header>div>span {
   		display: none;
 	}
@@ -159,7 +159,7 @@ nav>span:last-of-type {
 	line-height: 1.25;
 }
 
-@media only screen and (max-width: 910px), (orientation: portrait) {
+@media only screen and (max-width: 910px) {
 	#banner .right h1 {
 		font-size: 1.75rem;
 	}
@@ -174,7 +174,7 @@ nav>span:last-of-type {
 	}
 }
 
-@media only screen and (max-width: 720px), (orientation: portrait) {
+@media only screen and (max-width: 720px) {
 	#banner {
 		flex-direction: column;
 	}
@@ -285,7 +285,7 @@ nav>span:last-of-type {
 	font-size: 0.85rem;
 }
 
-@media only screen and (max-width: 720px), (orientation: portrait) {
+@media only screen and (max-width: 720px) {
 	#practice {
 		padding-bottom: 1rem;
 	}
@@ -402,7 +402,7 @@ nav>span:last-of-type {
 	background: #efefef;
 }
 
-@media only screen and (max-width: 720px), (orientation: portrait) {
+@media only screen and (max-width: 720px) {
 	#learn {
 		background: none;
 		border-bottom: 1px solid #eee;
@@ -498,7 +498,7 @@ nav>span:last-of-type {
 	margin-bottom: 0.75rem;
 }
 
-@media only screen and (max-width: 720px), (orientation: portrait) {
+@media only screen and (max-width: 720px) {
 	#thesis h2 {
 		margin: 2rem 0;
 	}
@@ -533,7 +533,7 @@ footer span:last-of-type {
 	margin-left: 1rem;
 }
 
-@media only screen and (max-width: 720px), (orientation: portrait) {
+@media only screen and (max-width: 720px) {
 	footer {
 		padding: 2.5rem 1.5rem 1rem;
 	}
