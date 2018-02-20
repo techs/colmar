@@ -108,7 +108,7 @@ nav>span:last-of-type {
 	color: #111;
 }
 
-@media only screen and (max-width: 630px) {
+@media only screen and (max-width: 720px) {
   #desktop, header>div>span {
   	display: none;
   }
@@ -174,7 +174,7 @@ nav>span:last-of-type {
 	}
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 720px) {
 	#banner {
 		flex-direction: column;
 	}
@@ -286,7 +286,7 @@ nav>span:last-of-type {
 	font-size: 0.85rem;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 720px) {
 	#practice {
 		padding-bottom: 1rem;
 	}
@@ -399,7 +399,7 @@ nav>span:last-of-type {
 	background: #efefef;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 720px) {
 	#learn {
 		background: none;
 		border-bottom: 1px solid #eee;
@@ -417,10 +417,6 @@ nav>span:last-of-type {
 	}
 }
 
-@media only screen and (max-width: 675px) {
-	#learn article h4 {
-		font-size: 1rem;
-	}
 
 /* ---- Thesis ---- */
 
@@ -499,7 +495,7 @@ nav>span:last-of-type {
 	margin-bottom: 0.75rem;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 720px) {
 	#thesis h2 {
 		margin: 2rem 0;
 	}
@@ -517,18 +513,6 @@ nav>span:last-of-type {
 	}
 }
 
-@media only screen and (max-width: 800px) {
-	#thesis article h4 {
-		line-height: 1.1;
-		margin-bottom: 0.25rem;
-		font-size: 1rem;
-	}
-	#thesis article h5 {
-		line-height: 1;
-		margin-bottom: 0.25rem;
-		font-size: 0.85rem;
-	}
-}
 
 /* ---- Footer ---- */
 
