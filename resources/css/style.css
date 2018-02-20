@@ -189,7 +189,6 @@ nav>span:last-of-type {
 	}
 	#banner .right h1 {
 		margin-top: 2rem;
-		font-size: 2.25rem;
 	}
 	#banner .right p:first-of-type {
 		margin: 1.5rem 0;
@@ -306,6 +305,7 @@ nav>span:last-of-type {
 	}
 	#practice article h4 {
 		margin-bottom: 0.5rem;
+		font-size: 1.5rem;
 	}
 	#practice article a {
 		margin-top: 0.5rem;
@@ -327,6 +327,9 @@ nav>span:last-of-type {
 	}
 	#practice .about {
 		margin: 1.25rem 0 0;
+	}
+	#practice .about p, #practice .about a {
+		font-size: 1.25rem;
 	}
 }
 
