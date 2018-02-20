@@ -109,15 +109,15 @@ nav>span:last-of-type {
 }
 
 @media only screen and (max-width: 720px), (orientation: portrait) {
-  #desktop, header>div>span {
-  	display: none;
-  }
-  #mobile {
-  	display: contents;
-  }
-  header img {
-  	height: 32px;
-  }
+	#desktop, header>div>span {
+  		display: none;
+	}
+  	#mobile {
+  		display: contents;
+	}
+	header img {
+  		height: 32px;
+	}
 }
 
 
@@ -533,7 +533,7 @@ footer span:last-of-type {
 	margin-left: 1rem;
 }
 
-@media only screen and (max-width: 550px), (orientation: portrait) {
+@media only screen and (max-width: 720px), (orientation: portrait) {
 	footer {
 		padding: 2.5rem 1.5rem 1rem;
 	}
