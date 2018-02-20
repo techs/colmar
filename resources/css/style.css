@@ -108,7 +108,7 @@ nav>span:last-of-type {
 	color: #111;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 720px), (orientation: portrait) {
   #desktop, header>div>span {
   	display: none;
   }
